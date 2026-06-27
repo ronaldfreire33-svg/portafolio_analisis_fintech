@@ -1,9 +1,7 @@
--- ============================================================================
--- PROYECTO PORTAFOLIO: ANÁLISIS DE NEGOCIO FINTECH
--- Autor: [Tu Nombre]
--- Herramienta: SQL (PostgreSQL / MySQL)
--- ============================================================================
 
+-- PROYECTO Estructura inicial de consultas de negocio.
+-- Autor: 'Ronald_Freire'
+-- Herramienta: SQL (PostgreSQL / MySQL)
 -- ----------------------------------------------------------------------------
 -- PREGUNTA 1: Análisis de Churn y Retención de Clientes
 -- Objetivo: Identificar usuarios activos en Abril 2026 que abandonaron en Mayo 2026
