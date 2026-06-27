@@ -1,5 +1,5 @@
 
--- PROYECTO Estructura inicial de consultas de negocio.
+-- PROYECTO PORTAFOLIO: ANÁLISIS DE NEGOCIO FINTECH
 -- Autor: 'Ronald_Freire'
 -- Herramienta: SQL (PostgreSQL / MySQL)
 -- ----------------------------------------------------------------------------
